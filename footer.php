@@ -65,11 +65,8 @@ info@cft44.com<br>
   </div>
 </footer>
     
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 
-     <script src="scripting.js"></script>
-    <!-- jQuery Version 1.11.1 -->
-    <script src="js/jquery.js"></script>
-
-    <!-- Bootstrap Core JavaScript -->
-    <script src="js/bootstrap.min.js"></script>
+    <script src="controller.js"></script>
+    <script src="scripting.js"></script>
+    
+    
