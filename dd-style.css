@@ -5,6 +5,16 @@ body {
     color: #231f20;
     background-color: #fff;
     padding-top: 70px;
+    margin: 0;
+}
+
+* {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+.highlight {
+  background: #ed1c24 !important;
 }
 a {
     color: #ed1c24;
@@ -207,12 +217,4 @@ footer a:hover {
   clear: both;
 }
 
-body {
-  margin: 0;
-}
 
-* {
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-  box-sizing: border-box;
-}
