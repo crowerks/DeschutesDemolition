@@ -63,10 +63,15 @@ info@cft44.com<br>
   <div class="bottom-bar">
       All Rights Reserved © 2017
   </div>
-</footer>
-    
-
+     <script src="scripting.js"></script>
     <script src="controller.js"></script>
-    <script src="scripting.js"></script>
+</footer>
+   
+   </body>
+
+</html>
+    
+    
+   
     
     
